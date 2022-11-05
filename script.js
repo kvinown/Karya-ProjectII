@@ -6,7 +6,7 @@ let text = document.getElementById('text');
 let desc = document.getElementById('desc');
 let kepin =document.getElementById('kepin');
 
-alert("Jika anda menggunakan HP, gunakan desktop site.");
+// alert("Welcome!!");
 
 window.addEventListener('scroll', function(){
     let value = window.scrollY;
