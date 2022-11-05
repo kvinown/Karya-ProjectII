@@ -159,7 +159,7 @@ nav ul li a:hover {
 }
 #about {
     position: relative;
-    text-align: left;
+    text-align: center;
     font-size: 30px;
 }
 #dam {
@@ -189,7 +189,7 @@ nav ul li a:hover {
 }
 #exp {
     position: relative;
-    text-align: left;
+    text-align: center;
     font-size: 30px;
 }
 #CP {
@@ -234,10 +234,14 @@ table {
 }
 #skill {
     position: relative;
-    text-align: left;
+    text-align: center;
     font-size: 30px;
 }
+#logo-skill {
+    position: relative;
+    width: 150px;
 
+}
 .footer {
     padding: 30px;
     left: 0;
